@@ -22,7 +22,8 @@
 ## ToDo List:
  * Redo the gui using https://github.com/G33kDude/Neutron.ahk
  * Can resize cliped image.
- * Screen Cliper freezes the screen on activation.
+ * Screen Clipper freezes the screen on activation.
  * Code epic pen.
+ * Screen Clipper functions correctly on different window text scale
 
 
