@@ -1,13 +1,6 @@
 <div>
 <p align="center"><a href="https://github.com/AlifPapp/SeizeControl_Official">
   <img src="https://raw.githubusercontent.com/AlifPapp/SeizeControl/main/Images/open-close%20eye.gif" align="center" alt="SeizeControl.ico"></a></p>
-<p align="center">
-    <a href="https://www.youtube.com/channel/UCsIaU94p647veKr7sy12wmA">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
-    <a href="https://dsc.gg/alifpapp">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
-    <a href="https://twitter.com/AlifPapp">
-        <img src="https://img.shields.io/badge/Twitter-55ADEE?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a> 
 </div>
 
 ## Features:
